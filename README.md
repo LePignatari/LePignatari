@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo(a) eu sou a Letícia Pignatari 😊
 <div> 
-  #
+  
   
   <p align="center"> Estudante de Sistemas de Informação. Iniciante nos estudos, busco aprimorar meus conhecimentos prévios. 
   Possuo alguns conhecimentos em Python, e estou iniciando os estudos de Javascript, HTML e CSS!
