@@ -1,9 +1,9 @@
 ### Olá! Bem-vindo(a) eu sou a Letícia Pignatari 😊
 
 - 🔭 Iniciante na área
-- 🌱 Estudando Python
+- 🌱 Cursando Sistemas de Informação
 - 😄 Pronouns: ela/dela
-- 📌 Me contate em: leticia.pignatari@gmail.com
+- 📌 Me contate em: euleticiapignatari@gmail.com
 - 💡 Criatividade e rápido aprendizado
   
 <div style="display: inline_block"><br>
