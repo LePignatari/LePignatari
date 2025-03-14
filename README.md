@@ -7,7 +7,7 @@
 - 💡 Criatividade e rápido aprendizado
 
 <div>
-  <img align="right" alt="" height="190px"  src="https://github.com/user-attachments/assets/f3f326eb-7249-4d32-85b9-e7afa64aa176">
+  <img align="right" alt="" height="200px"  src="https://github.com/user-attachments/assets/f3f326eb-7249-4d32-85b9-e7afa64aa176">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
