@@ -11,7 +11,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javasript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="gifzinho" height="200" width="210" src="https://github.com/user-attachments/assets/0c7cd328-c131-49e4-885a-b64af19617c3">
+  <img align="right" alt="gifzinho" src="https://github.com/user-attachments/assets/f3f326eb-7249-4d32-85b9-e7afa64aa176">
+
 
 </div>
 <div><br>
