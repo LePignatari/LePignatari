@@ -4,7 +4,8 @@
   #
   
   <p align="left"> Estudante de Sistemas de Informação. Busco aprimorar meus conhecimentos prévios. 
-  Possuo alguns conhecimentos em Python, e estou iniciando os estudos de Javascript, HTML e CSS!
+  Possuo alguns conhecimentos em Python, JavaScript, HTML e CSS, atualmente aprofundando meus connhecimentos
+  em Node.js!
   Sempre estou me desafiando com o objetivo de buscar novos conhecimentos todos os dias! 🤗
 
   #
