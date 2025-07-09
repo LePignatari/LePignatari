@@ -23,3 +23,7 @@
   <a href="https://www.linkedin.com/in/leticiapignatari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:euleticiapignatari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![](https://github-readme-stats.vercel.app/api?username=LePignatari&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LePignatari&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LePignatari&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
