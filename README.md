@@ -1,4 +1,7 @@
-### Olá! Bem-vindo(a) eu sou a Letícia Pignatari 😊
+<div>
+  <img src="https://tenor.com/pt-BR/view/hollow-knight-reading-map-pixel-art-gif-8043633549067461458">
+</div>
+
 <div> 
 
   #
