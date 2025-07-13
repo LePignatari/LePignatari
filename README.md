@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Letícia!</h1>
 
 
-<img src="https://github.com/user-attachments/assets/6244abbb-23ec-4914-8005-80ab13c79254" alt="Hollow Knight Pixel ART" width="500" align="right" style="margin-right: 20px;"/>
+<img src="https://github.com/user-attachments/assets/6244abbb-23ec-4914-8005-80ab13c79254" alt="Hollow Knight Pixel ART" width="250" align="right" style="margin-right: 20px;"/>
 
 
 > Estudante de Sistemas da Informação (SI)
@@ -31,6 +31,8 @@
 
 #
 
-![](https://github-readme-stats.vercel.app/api?username=LePignatari&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LePignatari&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LePignatari&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LePignatari&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
